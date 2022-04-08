@@ -14,6 +14,6 @@ To run the tests, please ensure you have the following installed:
 
 ## How to run
 
-Clone the repo and Install the project dependencies npm i
+Clone the repo and Install the project dependencies ```npm i```
 
-To run the tests on your terminal, npm run test
+To run the tests on your terminal, ```npm run test```
