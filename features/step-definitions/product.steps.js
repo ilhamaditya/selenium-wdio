@@ -34,9 +34,6 @@ When(/^add more 3 filters$/, async () => {
 });
 Then(/^filter tags applied$/, async () => {
   await bPage.btnFilterApplied.click();
-  // expect(bPage.btnAssertScreenSize).toBeDisplayed();
-  // expect(bPage.btnAssertPrice).toBeDisplayed();
-  // expect(bPage.btnAssertItemLocation).toBeDisplayed();
   expect(bPage.btnAssertScreenSize).exist
   expect(bPage.btnAssertPrice).exist
   expect(bPage.btnAssertItemLocation).exist
