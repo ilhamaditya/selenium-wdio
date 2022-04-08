@@ -10,7 +10,7 @@ To run the tests, please ensure you have the following installed:
 
 - Node
 - NPM
-- Eclipse IDE
+- Visual Studio Code IDE
 
 ## How to run
 
